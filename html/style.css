@@ -1,0 +1,210 @@
+#header{
+	color: #030101;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 60px;
+
+	border-radius: 10px;
+
+
+}
+
+
+body{
+	
+	background-color: #ffffff;
+}
+
+#form{
+	text-align: left;
+}
+
+ul{
+	text-align: left;
+}
+
+
+#messi,#rolando{
+	text-align: center;
+
+	text-align: left;
+
+
+}
+
+.player_info{
+	
+
+	border: 1px solid black ;
+
+	margin-top: 00px;
+
+	margin-bottom: 50px;
+
+	text-align: left;
+
+	padding-left: 25px;
+
+	padding-right: 60px;
+
+	background-color: #2157ad;
+
+	color: #ffffff;
+
+	padding-top: 50px;
+
+	padding-bottom: 50px;
+
+
+
+	
+
+	border-radius: 0 10px 10px 10px;
+
+	transition: all 800ms linear 200ms ;
+
+
+	overflow: scroll;
+
+	width: 900px;
+
+	height: 300px;
+
+
+}
+
+
+
+#table:hover {
+	background: ;
+
+
+}
+
+#table{
+	
+}
+
+.player_info:hover{
+	background: #347ccf;
+
+	
+
+	transform: scale(1.1); 
+
+
+
+	
+
+
+}
+
+#rolando{
+	margin-top: 90px;
+
+	text-align: left;
+
+
+}
+
+h1{
+	color: #fcfcfc;
+
+	padding-bottom: 30px;
+
+	padding-top: 30px;
+
+	background: #8350b3;
+
+}
+
+
+#header p{
+	widht: 200px;
+
+
+}
+
+#table{
+	margin-top: 20px;
+
+	margin-left: 10px;
+
+	margin-right: 10px;
+
+	border-radius: 10px;
+}
+
+a:visited{
+	color: #d9071c;
+}
+
+a:hover{
+	color: #e00013;
+}
+
+#button{
+	margin-left: 20px;
+}
+
+#voting-form{
+	margin: 20px;
+}
+
+#list-group{
+
+	margin-top: 60px;
+
+	margin-bottom: 40px;
+
+	
+
+	margin-right: 10px;
+}
+
+
+
+#messi{
+	margin-top: 50px;
+}
+
+
+#tablist{
+	margin-top: 30px;
+
+	
+}
+
+#messi h3,#rolando h3{
+
+	text-shadow: 1px 1px 2px #c2c3c4;
+
+	
+
+	padding-bottom: 20px;
+
+	text-align: center;
+	padding-top: 20px;
+}
+
+
+
+#messi img:hover,#rolando img:hover{
+
+	transform: scale(1.1);
+
+
+}
+
+
+#messi img,#rolando img{
+
+	transition: all 500ms ;
+}
+
+
+
+
+
+
+

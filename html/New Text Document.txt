@@ -1,0 +1,21 @@
+<button name="submit">submit</button>
+
+
+ul>
+            
+            <li>Real Madrid</li>
+            <li>Manchester United</li>
+            <li>Sporting CP</li>
+
+         </ul>
+
+
+
+
+<select name="my-favorite">
+               
+               <option value="messi">Messi</option>
+
+               <option value="rolando">Rolando</option>
+
+            </select>

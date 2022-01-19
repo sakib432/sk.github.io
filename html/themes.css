@@ -1,0 +1,22 @@
+body{
+
+	background-color: #171717;
+}
+
+
+#header {
+
+	margin-top: 20px;
+}
+.card{
+	background-color:#070708 ;
+}
+
+img:hover{
+	transform: scaley(3) scaleX(3);
+}
+
+img{
+	transition: 2s;
+}
+

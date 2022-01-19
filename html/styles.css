@@ -1,0 +1,51 @@
+.card-body{
+	text-align: center;
+
+	padding-top: 30px;
+
+	padding-bottom: 40px;
+
+	margin-top: 30px;
+
+
+
+
+}
+
+body{
+	text-align: center;
+}
+
+
+.card{
+	margin-top: 30px;
+
+	margin-left: 150px;
+
+	margin-bottom: 200px;
+
+	transition: 800ms;
+
+	border-radius: 10px;
+}
+
+
+
+
+#carouselExampleIndicators{
+	margin-top: 50px;
+
+	margin-bottom: 30px;
+
+
+}
+
+#nav{
+	margin-top: 2px;
+}
+
+.card:hover{
+	transform: scale(1.2);
+
+}
+
